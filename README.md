@@ -1,6 +1,7 @@
 # 🧠 Extended MNIST Classification using Modified DenseNet
 **[EMNIST 데이터셋 분류를 위한 경량화된 고성능 CNN 모델 프로젝트입니다]**  
-DenseNet 구조를 효율적으로 수정하여 정확도와 추론 속도 사이의 최적의 균형을 찾고자 했습니다.
+DenseNet 구조를 효율적으로 수정하여,  
+정확도와 추론 속도 사이의 최적의 균형을 찾고자 했습니다.
 ---
 ## 🛠 해결한 문제 (Problem Solving)
 ### 1. 기존 모델의 한계 극복: 정확도와 효율성의 트레이드오프
